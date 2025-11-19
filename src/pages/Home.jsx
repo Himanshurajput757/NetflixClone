@@ -1,5 +1,5 @@
 import React from 'react'
-import Navbar from '../components/Navbar/navbar'
+import Navbar from '../components/Navbar/Navbar'
 import Trending from '../components/Trending/Trending'
 import Reasons from '../components/Reasons/Reasons'
 import Questions from '../components/Questions/Questions'
